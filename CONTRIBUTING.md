@@ -40,11 +40,11 @@ If you're a trusted collaborator, please use pull requests for all changes to `m
 
 When submitting, please follow this structure:
 
-	covers/ 
-	└── Game Title/
-	├── Game_Title-CoverTitle_Variant(Optional)_YourName.png
-	└── README.md (optional notes or credits)
-
+	covers/  
+	└── Game Title/  
+	├── Game_Title-CoverTitle_Variant(Optional)_YourName.png  
+	└── README.md (optional notes or credits)  
+  
 If you're submitting multiple variants (e.g. alternative artwork, banners, backgrounds), please include them in the same folder.
 
 ---

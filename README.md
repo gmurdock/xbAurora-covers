@@ -21,16 +21,17 @@ Welcome to the **Xbox 360 Custom Cover Archive** — a curated collection of hig
 ## Repository Structure
 
 Each folder contains custom artwork for a specific title. Contributors can include alternate versions, themed variants, and notes for publishing.
-	covers/
-	└── Game Title/
-	├── Game_Title-CoverTitle_Variant(Optional)_YourName.png
-	└── README.md (optional notes or credits)
-	└── etc.
 
-Example:
-	covers/
-	├── Halo 3/
-	└── Halo_3-ClassicRetro_Xbox360_gmurdock.png
+	covers/  
+	└── Game Title/  
+	├── Game_Title-CoverTitle_Variant(Optional)_YourName.png  
+	└── README.md (optional notes or credits)  
+	└── etc.  
+  
+Example:  
+	covers/  
+	├── Halo 3/  
+	└── Halo_3-ClassicRetro_Xbox360_gmurdock.png  
 	└── README.md
 
 ---
