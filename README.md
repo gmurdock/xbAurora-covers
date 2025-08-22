@@ -20,19 +20,18 @@ Welcome to the **Xbox 360 Custom Cover Archive** — a curated collection of hig
 
 ## Repository Structure
 
-covers/
-└── Game Title/
-├── Game_Title-CoverTitle_Variant(Optional)_YourName.png
-└── README.md (optional notes or credits)
-└── etc.
+Each folder contains custom artwork for a specific title. Contributors can include alternate versions, themed variants, and notes for publishing.
+	covers/
+	└── Game Title/
+	├── Game_Title-CoverTitle_Variant(Optional)_YourName.png
+	└── README.md (optional notes or credits)
+	└── etc.
 
 Example:
-covers/
-├── Halo 3/
-└── Halo_3-ClassicRetro_Xbox360_gmurdock.png
-└── README.md
-
-Each folder contains custom artwork for a specific title. Contributors can include alternate versions, themed variants, and notes for publishing.
+	covers/
+	├── Halo 3/
+	└── Halo_3-ClassicRetro_Xbox360_gmurdock.png
+	└── README.md
 
 ---
 
@@ -57,8 +56,8 @@ Contributions are welcomed from fellow graphic designers and fans! To submit you
 	- Your name or alias
 	- Game title
 	- Optional design notes
-	Submit via email: [github@gmurdock.dev](mailto:github@gmurdock.dev)
-	[Submit a Custom Cover](mailto:github@gmurdock.dev?subject=xbAurora-covers%20-%20Submission%20-%20[Game%20Title]&body=Hello!%2C%0A%0AI'd%20like%20to%20submit%20a%20custom%20Xbox%20360%20cover.%0A%0A**Game%20Title:**%20[Enter%20title]%0A**Creator%20Name/Alias:**%20[Your%20Alias]%0A**Cover%20Type:**%20[Xbox360/XBLA/XboxOG/Homebrew]%0A**Source%20Assets:**%20[Brief%20description%20or%20link]%0A**Notes:**%20[Any%20special%20details%20or%20requests]%0A%0AThanks%2C%0A[Your%20Name])
+	- Submit via email: [github@gmurdock.dev](mailto:github@gmurdock.dev)
+	- [Submit a Custom Cover](mailto:github@gmurdock.dev?subject=xbAurora-covers%20-%20Submission%20-%20[Game%20Title]&body=Hello%2C%0A%0AI'd%20like%20to%20submit%20a%20custom%20Xbox%20360%20cover.%0A%0A**Game%20Title:**%20[Enter%20title]%0A**Creator%20Name/Alias:**%20[Your%20Alias]%0A**Cover%20Type:**%20[Xbox360/XBLA/XboxOG/Homebrew]%0A**Source%20Assets:**%20[Brief%20description%20or%20link]%0A**Notes:**%20[Any%20special%20details%20or%20requests]%0A%0AThanks%2C%0A[Your%20Name])
 
 All submissions will be reviewed and added to the repository with credit to submitting designer.
 
