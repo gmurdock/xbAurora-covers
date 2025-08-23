@@ -3,15 +3,15 @@ High-quality fan-made Xbox titles and homebrew software covers for use with Auro
 
 ---
 
-# Xbox 360 Custom Cover Archive for Games and Homebrew
+# Xbox 360 Custom Covers Archive for Aurora Dashboard
 
-Welcome to the **Xbox 360 Custom Cover Archive** — a curated collection of high-quality, fan-made cover art designed to celebrate and preserve the legacy of the Xbox 360. Whether you're building a digital library, printing physical cases, or simply admiring the artwork, this project aims to deliver quality, thematically consistent, and resolution-ready assets to breathe life into your Aurora Dashboard.
+Welcome to the **Xbox 360 Custom Cover Archive** — a curated collection of high-quality, fan-made cover art designed to preserve the legacy of the Xbox 360. Whether you're building a digital library, printing physical cases, or simply admiring custom designs, this project aims to deliver quality, thematically consistent, and resolution-ready assets to breathe life into your Aurora Dashboard.
 
 ---
 
 ## Project Goals
 
-- Recreate and reimagine Xbox 360 game covers at 900×600
+- Recreate Xbox 360 game covers at 900×600
 - Maintain stylistic fidelity to original branding
 - Provide a centralised, open-source resource for enthusiasts and archivists
 - Encourage community collaboration and contributions
@@ -38,11 +38,12 @@ Example:
 
 ## Submitting Your Own Covers
 
-Contributions are welcomed from fellow graphic designers and fans! To submit your own work:
+Contributions are welcomed from fellow graphic designers and fans.  
+To submit your own work:  
 
 1. Ensure your cover meets the following criteria:
 	- **Original work** created or remixed by you, crediting the original author(s)
-	- Uses **publicly available assets** or assets you have rights to use
+	- Uses **publicly available assets**, or assets you have rights to use
 	- Resolution: 900×600
 	- Saved as PNG or lossless format
 
@@ -52,13 +53,14 @@ Contributions are welcomed from fellow graphic designers and fans! To submit you
 	- Include a short description in your commit or pull request
 	- Submit a pull request for review
 
-3. Email your submission
+3. Email Submission
 	Please include:
 	- Your name or alias
 	- Game title
 	- Optional design notes
-	- Submit via email: [github@gmurdock.dev](mailto:github@gmurdock.dev)
-	- [Submit a Custom Cover](mailto:github@gmurdock.dev?subject=xbAurora-covers%20-%20Submission%20-%20[Game%20Title]&body=Hello%2C%0A%0AI'd%20like%20to%20submit%20a%20custom%20Xbox%20360%20cover.%0A%0A**Game%20Title:**%20[Enter%20title]%0A**Creator%20Name/Alias:**%20[Your%20Alias]%0A**Cover%20Type:**%20[Xbox360/XBLA/XboxOG/Homebrew]%0A**Source%20Assets:**%20[Brief%20description%20or%20link]%0A**Notes:**%20[Any%20special%20details%20or%20requests]%0A%0AThanks%2C%0A[Your%20Name])
+  
+	Submit via email: **github@gmurdock.dev**  
+	[Submit a Custom Cover](mailto:github@gmurdock.dev?subject=xbAurora-covers%20-%20Submission%20-%20[Game%20Title]&body=Hello%2C%0A%0AI'd%20like%20to%20submit%20a%20custom%20Xbox%20360%20cover.%0A%0A**Game%20Title:**%20[Enter%20title]%0A**Creator%20Name/Alias:**%20[Your%20Alias]%0A**Cover%20Type:**%20[Xbox360%2FXBLA%2FXboxOG%2FHomebrew]%0A**Source%20Assets:**%20[Brief%20description%20or%20link]%0A**Attribution%20Line:**%20Features%20[IP%20description]%20%C2%A9%20[Rights%20Holder]%2C%20used%20under%20fair%20use%20for%20non-commercial%2C%20transformative%20fan%20content.%0A**Notes:**%20[Any%20special%20details%20or%20requests]%0A%0AThanks%2C%0A[Your%20Name])  
 
 All submissions will be reviewed and added to the repository with credit to submitting designer.
 
@@ -66,9 +68,9 @@ All submissions will be reviewed and added to the repository with credit to subm
 
 ## Get Involved
 
-Whether you're a designer, collector, or nostalgic gamer - we invite you to explore, contribute, and help preserve the visual legacy of Xbox.
+Whether you're a designer, collector, or nostalgic gamer - please explore, contribute, and help preserve the visual legacy of Xbox.
 
-All contributions are welcome: check out the CONTRIBUTING.md for guidelines and tips on how to get started.
+All contributions are welcome: check out Contributing page for guidelines and tips on how to get started.
 
 If you've found the project useful or would like to show your support - you can donate here:
 
