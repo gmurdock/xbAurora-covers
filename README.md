@@ -59,7 +59,7 @@ To submit your own work:
 	- Game title
 	- Optional design notes
   
-	Submit via email: **github@gmurdock.dev**  
+	Submit via email:  
 	[Submit a Custom Cover](mailto:github@gmurdock.dev?subject=xbAurora-covers%20-%20Submission%20-%20[Game%20Title]&body=Hello%2C%0A%0AI'd%20like%20to%20submit%20a%20custom%20Xbox%20360%20cover.%0A%0A**Game%20Title:**%20[Enter%20title]%0A**Creator%20Name/Alias:**%20[Your%20Alias]%0A**Cover%20Type:**%20[Xbox360%2FXBLA%2FXboxOG%2FHomebrew]%0A**Source%20Assets:**%20[Brief%20description%20or%20link]%0A**Attribution%20Line:**%20Features%20[IP%20description]%20%C2%A9%20[Rights%20Holder]%2C%20used%20under%20fair%20use%20for%20non-commercial%2C%20transformative%20fan%20content.%0A**Notes:**%20[Any%20special%20details%20or%20requests]%0A%0AThanks%2C%0A[Your%20Name])  
 
 All submissions will be reviewed and added to the repository with credit to submitting designer.
