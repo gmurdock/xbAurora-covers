@@ -58,7 +58,7 @@ If you're submitting multiple variants (e.g. alternative artwork, banners, backg
 - Author Notes [Optional]
 	[Brief description of custom elements]  
 	[Design credits or production notes]  
-	[Attribution, if required]. [See Guidelines](./Contributing#attribution-guidelines)
+	[Attribution, if required]. [See Guidelines](./Contributing.md#attribution-guidelines)
 
 ---
 
