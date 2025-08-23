@@ -1,4 +1,4 @@
-# xbAurora-covers
+# xbcAurora
 High-quality fan-made Xbox titles and homebrew software covers for use with Aurora Dashboard for archival and creative use.
 
 ---
